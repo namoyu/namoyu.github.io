@@ -1,2 +1,2 @@
 # namoyu.github.io
-biog
+blog
